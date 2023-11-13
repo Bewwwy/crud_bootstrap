@@ -7,6 +7,10 @@
     font-family: 'Nunito', sans-serif;
 }
 
+span {
+  color: white;
+}
+
 /* Definindo a cor do menu */
 .bg-cor-menu {
   background: #6f42c1;
@@ -105,3 +109,9 @@ i {
       bottom: 5em;
     }
   }
+
+.text-center {
+  background-color: #130b0b;
+  color: white;
+  margin-top: 2vh;
+}
